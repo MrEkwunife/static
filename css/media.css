@@ -1,0 +1,23 @@
+@media (min-width: 791px) {
+  .hero-section {
+    padding-right: 16rem;
+  }
+
+  .home-link {
+    font-size: 3rem;
+  }
+
+  .home-link ion-icon {
+    font-size: 4rem;
+  }
+
+  .press-btn:link,
+  .press-btn:visited {
+    font-size: 2rem;
+    padding: 0.8rem 2.4rem;
+  }
+
+  .hero-title {
+    font-size: 6.4rem;
+  }
+}

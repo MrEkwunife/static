@@ -1,0 +1,106 @@
+.container {
+  padding-top: 4rem;
+}
+
+.login-box {
+  margin: 0 auto;
+  width: 80%;
+  padding: 6rem 0;
+  background-color: #1c1917;
+  box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.7);
+  border-radius: 1rem;
+}
+
+.box {
+  gap: 4.8rem;
+}
+
+.brand-box {
+  text-align: center;
+}
+
+.logo {
+  font-size: 4.4rem;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0.6rem;
+}
+
+.logo ion-icon {
+  font-size: 5.2rem;
+  color: #b91c1c;
+  transform: rotate(30deg);
+}
+
+.slang {
+  font-size: 1.6rem;
+  color: #fecaca;
+}
+
+.registration-form {
+  gap: 3.2rem;
+}
+
+.inputs {
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.input-el,
+.btn {
+  width: 85%;
+  padding: 1.2rem 0.8rem;
+  background: #f3f4f6;
+  border: none;
+  font-size: 1.6rem;
+  font-family: "Open Sans";
+  border-radius: 0.6rem !important;
+  /* font-family: "Merriweather", sans-serif; */
+}
+
+.input-el::placeholder {
+  font-family: "Open Sans";
+  font-size: 1.6rem;
+}
+
+.options {
+  width: 85%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.checkbox,
+.checkbox-txt,
+.forgot {
+  font-size: 1.4rem;
+}
+
+.remember-box {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.forgot {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.btns {
+  gap: 1.2rem;
+}
+
+.btn {
+  margin: 0 auto;
+  border-radius: 0%;
+  background: rgba(0, 0, 0, 0.7);
+  /* border-radius: 0.9rem; */
+}
+
+.btn-login {
+  background-color: #991b1b;
+}
+
+.btn-google-login {
+  background-color: #1e40af;
+}
