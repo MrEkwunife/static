@@ -20,7 +20,7 @@ body {
 }
 
 main {
-  background-color: rgba(24, 24, 27, 0.377);
+  background-color: rgba(24, 24, 27, 0.5);
   width: 95%;
   max-width: 500px;
   padding: 2.8rem 0;
@@ -78,16 +78,16 @@ h1 ion-icon {
 }
 
 .input-el:focus {
-  outline: 2px solid #b91c1c;
+  outline: 2px solid #fca5a5;
 }
 
 .login-btn {
-  background-color: rgba(185, 28, 28, 0.822);
+  background-color: #b91c1c;
   color: #fff;
 }
 
 .login-google {
-  background-color: #525252;
+  background-color: rgba(24, 24, 27);
   color: #fff;
   font-size: 1.1rem;
 }
@@ -105,7 +105,7 @@ h1 ion-icon {
 
 .forgot,
 .register-link {
-  color: rgba(185, 28, 28, 0.822);
+  color: #fff;
   text-decoration: none;
 }
 
